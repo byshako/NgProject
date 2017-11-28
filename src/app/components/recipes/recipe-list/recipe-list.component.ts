@@ -14,5 +14,4 @@ export class RecipeListComponent implements OnInit {
 
   ngOnInit() {
   }
-  // new Recipe('1st Test', 'this is sample', 'http://is2.mzstatic.com/image/thumb/Purple69/v4/90/5f/5c/905f5cc2-c96a-9602-0552-0f2a013527e4/source/552x414bb.jpg'),
 }
